@@ -1,0 +1,17 @@
+{
+  "name": "cursor-plugins",
+  "owner": {
+    "name": "VirtualWall",
+    "email": "m.sasaki@vwall.co.jp"
+  },
+  "metadata": {
+    "description": "Claude Code view of this Cursor plugin repo. Plugins listed here have a .claude-plugin/plugin.json and load in Claude Code."
+  },
+  "plugins": [
+    {
+      "name": "pstack",
+      "source": "./pstack",
+      "description": "if you want to go fast, go deep first. rigorous agent workflows you can parallelize with confidence."
+    }
+  ]
+}
